@@ -1,18 +1,19 @@
 # My_new_projects_AI
 AI projects
-Summary
+
+## Summary
 This AI project target is to be able to identify for each main cosmetic scent (such as rose, pine, mint...) several set of images that have together a high probability to conjure the main scent when you see one of these AI-sorted set of images in a picture on a web page.
 
 In this AI project we would use only images to trigger scents. It would not use a scent-generating device. You can include the project in the general category of "Digital scent technology" but a very specific branch of this technology which tries to generate scents memories by using only images.
 
-Background
+## Background
 The problem I want to solve is the problem of e-commerce selling products with high olfative charateristics and that do not have currently the way to convey these scents to their customers. I want to be able offer them a list of image proxy for each of the scents they need to convey.
 
 By putting their product inside a composition with the adequate images set, they will be able to summon the right scent memory by trying to use the scent experiences printed in the customer brain and triggered by the set of image.
 
 The categories of products that would benefit of a solution for this problem are : cosmetics, perfumes, cooked dishes, and in fact any product with a scent, or mix of scents, that need to be sold on a e-commerce web site.
 
-How is it used?
+## How is it used?
 One concrete example : I am selling on a e-commerce website a candle that smells like lemon and pine. How do I maximize the probability to summon the right lemon-pine scent memory when the customer is looking at the picture of my candle?
 
 We could say "put a lemon and a pine" behind your candle on a picture with the three items combined but it is far from satisfying and experience tends to show that a picture with a lemon-pie summon better the memory of lemon scent than the picture of a lemon. So what do I do if I am a e-commerce marketer to promote my lemon and pine candle using images?
